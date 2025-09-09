@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saichandra1199
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Generative AI
 - 🌱 I’m currently working as Research Engineer 
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me -- saichandra1199@gmail.com
